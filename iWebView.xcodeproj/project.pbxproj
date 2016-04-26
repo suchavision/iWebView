@@ -507,6 +507,7 @@
 				EDDCF7791CB7B87700E6408D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EDDCF77A1CB7B87700E6408D /* Build configuration list for PBXNativeTarget "iWebViewTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +516,7 @@
 				EDDCF77C1CB7B87700E6408D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EDDCF77D1CB7B87700E6408D /* Build configuration list for PBXNativeTarget "iWebViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +525,7 @@
 				EDDCF77F1CB7B87700E6408D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
